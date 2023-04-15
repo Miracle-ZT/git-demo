@@ -7,6 +7,8 @@ package demo;
 public class fileB {
     public static void main(String[] args) {
         System.out.println("BBB");
-        System.out.println("BBB----111");
+        System.out.println("BBB----333");
+        System.out.println("BBB----222");
+        System.out.println("BBB----444");
     }
 }
