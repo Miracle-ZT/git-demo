@@ -10,5 +10,7 @@ public class fileB {
         System.out.println("BBB----333");
         System.out.println("BBB----222");
         System.out.println("BBB----444");
+        System.out.println("BBB----555");
+        System.out.println("BBB----666");
     }
 }
