@@ -7,5 +7,6 @@ package demo;
 public class fileA {
     public static void main(String[] args) {
         System.out.println("DDD");
+        System.out.println("AAA");
     }
 }
